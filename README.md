@@ -1,3 +1,7 @@
+Note: This application uses a local MongoDB instance for data storage. All contact information is stored locally on the host
+machine. Screenshots of the MongoDB Compass interface showing the stored data are included in the project presentation
+for verification purposes.
+
 Contact App
 
  A full-stack contact management application built with Spring Boot backend and React frontend.
